@@ -1,0 +1,2 @@
+I have added commited and  checked status log etc.
+This is to show that i have performed and practiced various Git commands usin GL
